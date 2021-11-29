@@ -1,0 +1,22 @@
+{
+    "activity": {
+        "type": "",
+        "text": ""
+    },
+    "debug": {
+        "guild": "",
+        "enabled": false
+    },
+    "embed": {
+        "color": {
+            "error": "",
+            "regular": ""
+        }
+    },
+    "owner": {
+        "ids": [
+            ""
+        ],
+        "prefix": ""
+    }
+}
